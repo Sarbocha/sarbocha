@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on cloud projects.
 - 📫 You can reach me from facebook(Sarbocha Pandey) or email: pandeysarbocha@gmail.com
 
-<!---
-Sarbocha/Sarbocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### If you have can help me with my codes and see any mistakes or bugs then contact me and if you need some help to understand the code I will be more than happy to help you.
